@@ -7,7 +7,7 @@
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件夹名/文件名
 
 // 例如
-https://cdn.jsdelivr.net/gh/Douc1998/CDN-source/image/myLogo.png
+https://cdn.jsdelivr.net/gh/Douc1998/CDN-source@1.0/image/myLogo.png
 ```
 
 (版本号可加可不加, 根据情况而定)
